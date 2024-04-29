@@ -1,14 +1,14 @@
 {
-    "name": "𝐓𝐞𝐱𝐭 Uploader 『Killer』BOT",
+    "name": "𝐓𝐞𝐱𝐭 Uploader 『Mendax",
     "description": "Download videos from various websites using this telegram bot",
-    "logo": "https://telegra.ph/file/adb079804486329352222.jpg",
+    "logo": "https://graph.org/file/45f562dc05b2874c7277e.jpg",
     "keywords": [
         "text-video",
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/NtrRaz/",
-    "success_url": "https://telegram.me/classtubeofficial",
+    "repository": "https://github.com/mohitbooraget/New_Txt_Random",
+    "success_url": "https://telegram.me/imendaxpublic",
     "stack": "container",
     "env": {
         "API_ID": {
